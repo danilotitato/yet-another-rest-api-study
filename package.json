@@ -1,0 +1,22 @@
+{
+  "name": "yet-another-rest-api-study",
+  "version": "0.1.0",
+  "description": "Fresh start!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilotitato/yet-another-rest-api-study.git"
+  },
+  "author": "Danilo Titato",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/danilotitato/yet-another-rest-api-study/issues"
+  },
+  "homepage": "https://github.com/danilotitato/yet-another-rest-api-study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
