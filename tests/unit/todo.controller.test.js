@@ -1,7 +1,7 @@
-const TodoController = require('../../src/controllers/todo.controller')
+const todoController = require('../../src/controllers/todo.controller')
 
-describe('TodoController.createTodo', () => {
+describe('todoController.createTodo', () => {
     it('should have a createTodo function', () => {
-        expect(typeof TodoController.createTodo).toBe('function')
+        expect(typeof todoController.createTodo).toBe('function')
     })
 })
